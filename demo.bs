@@ -1,0 +1,4 @@
+print "below string will be printed only if condition is true"
+if 3>5 :
+print "yess"
+endif
